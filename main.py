@@ -1,6 +1,6 @@
-import Django_2_Python.django_setup as django_setup
+import django_setup as django_setup
 
-from Django_2_Python.school_app.models import *
+from school_app.models import *
 
 print("Виберіть дію:")
 print("1. Створити квіз")
