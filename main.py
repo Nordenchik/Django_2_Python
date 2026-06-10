@@ -1,4 +1,4 @@
-import django_setup as django_setup
+import django_setup
 
 from school_app.models import *
 
